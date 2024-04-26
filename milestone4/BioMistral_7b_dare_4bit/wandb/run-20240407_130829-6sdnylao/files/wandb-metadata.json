@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.11.6",
+    "heartbeatAt": "2024-04-07T20:08:29.939589",
+    "startedAt": "2024-04-07T20:08:29.552524",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "BioLaySumm2024/COLX_531_bossy_beaver/milestone4/BioMistral_7b_dare_4bit/06_wandb_metrics_logger.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/haydenchiu/MDS-CL/BioLaySumm2024/COLX_531_bossy_beaver",
+    "git": {
+        "remote": "git@github.ubc.ca:tchoudh8/COLX_531_bossy_beaver.git",
+        "commit": "aa1852d5a26993dd49943d7be22222e200caebb0"
+    },
+    "email": "haydenchiush@gmail.com",
+    "host": "Sungs-MacBook-Pro.local",
+    "username": "haydenchiu",
+    "executable": "/Users/haydenchiu/miniconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 1858.1917190551758,
+            "used": 187.75890731811523
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 64.0
+    }
+}
